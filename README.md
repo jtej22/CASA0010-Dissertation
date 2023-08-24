@@ -21,3 +21,7 @@ Data sources:
 https://a3s.fi/swift/v1/AUTH_0914d8aff9684df589041a759b549fc2/R5edu/Brighton.zip 
 - Education files: In data file (schools)
 - Full dataset used in analysis: In data file (full_dataset.csv)
+
+
+
+For more queries, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/josiahtanej/) or at josiah.tan.19@ucl.ac.uk 
